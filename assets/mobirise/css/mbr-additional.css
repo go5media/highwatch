@@ -1529,7 +1529,7 @@ img,
   z-index: 1;
   display: inline-flex;
   align-items: center;
-  background-image: linear-gradient(135deg, #cccccc 38%, #ff6900 75%);
+  background-image: linear-gradient(135deg, #cccccc 38%, #5480c1 75%);
   box-shadow: 0 10px 10px -5px #cccccc;
   padding: 0 1px 1px 0;
 }
@@ -1542,7 +1542,7 @@ img,
   height: 50px;
   pointer-events: none;
   filter: blur(10px);
-  background-image: radial-gradient(50% 50%, #ff6900 0%, transparent 100%);
+  background-image: radial-gradient(50% 50%, #5480c1 0%, transparent 100%);
   z-index: -1;
 }
 .cid-v4Mker25GO .content-wrapper .label-wrapper .label-wrap .label-box {
